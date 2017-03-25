@@ -36,7 +36,7 @@ public class Day3 {
           {
              ans = "Weird"; 
           }
-          else
+          else 
           {
              ans = "Not Weird"; 
           }
