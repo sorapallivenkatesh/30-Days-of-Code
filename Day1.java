@@ -39,4 +39,4 @@ public class Day1 {
         	the 's' variable above should be printed first. */
          System.out.println(s+ss);
     }
-}
+} 
