@@ -33,4 +33,4 @@ public class Day10 {
         }
         System.out.println(max);
     }
-}
+} 
