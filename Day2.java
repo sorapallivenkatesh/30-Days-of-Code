@@ -30,4 +30,4 @@ public class Day2 {
       
         // Print your result
     }
-}
+} 
