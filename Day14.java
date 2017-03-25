@@ -52,4 +52,4 @@ public class Day14 {
 
         System.out.print(difference.maximumDifference);
     }
-}
+} 
