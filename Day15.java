@@ -49,5 +49,5 @@ public class Day15
         display(head);
         sc.close();
     }
-}
+} 
 
