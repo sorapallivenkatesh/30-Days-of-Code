@@ -40,4 +40,4 @@ public class Day11
         System.out.println(maxSum);              
     }
     
-}
+} 
