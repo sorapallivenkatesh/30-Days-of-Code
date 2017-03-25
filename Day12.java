@@ -79,4 +79,4 @@ public class Day12
         s.printPerson();
         System.out.println("Grade: " + s.calculate()); 
    }
-}
+} 
